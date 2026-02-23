@@ -19,7 +19,7 @@ The goal is to extract meaningful business insights related to sales performance
 - A small set of product categories drives the majority of revenue.
 - Order volume shows consistent growth over time.
 - AOV remains stable, indicating predictable spending behavior.
-- Repeat customers contribute significantly, highlighting retention opportunities.
+- Only a small percentage of customers make repeat purchases, indicating low retention.
 
 ## Outcome
-This project demonstrates practical SQL querying, Python-based analysis, and business-focused storytelling—skills essential for a Data Analyst role.
+This project demonstrates practical SQL querying, Python-based analysis, and business-focused storytelling—skills relevant to real world data analysis and business decision making.
