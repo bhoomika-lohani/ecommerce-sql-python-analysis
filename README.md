@@ -9,7 +9,7 @@ The goal is to extract meaningful business insights related to sales performance
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook / Kaggle
 
-## Key Analyses
+## Key Analysis
 - Total sales by product category
 - Monthly order trends
 - Average Order Value (AOV) analysis
